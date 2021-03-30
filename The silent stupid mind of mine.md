@@ -1,10 +1,12 @@
+## The silent stupid mind of mine
+
 The fear of speaking and writing are with me since I was kid. I use to fumble while speaking and mostly use to remember 
 study materials to score good marks in exam. My school teachers expected from us to score 100/100 in maths, Science and 
 General knowledge subjects probably because they believed getting better scores in those subjects would help us become 
 an IAS / Railway employee. Nobody use to talk about creative thinking. Thus I became one who never used to open up about any thing.
 The whole life use to run formulas. Similiar to the mathematics one. If you not use the particular formula, you won't get the result.
-I remeber section A students used to bully section C students when I was in class  7th. I thought I have already lost the race. S
-coring 80% on mid-term and final term was very difficult for me. 
+I remeber section A students used to bully section C students when I was in class  7th. I thought I have already lost the race. 
+Scoring 80% on mid-term and final term was very difficult for me. 
 
 I didn't studied Hindi till standard 1st. Schools in Nagaland start teaching Hindi from standard 2nd. Unluckily, I had to move to Bihar 
 after my standard 1st. I got demoted to Nurserry class (pre KG-1) beacuse I had no idea about hindi language. I felt embarresed for 
