@@ -1,6 +1,5 @@
 # Thought Box
 
-I write and draft my stories here which I publish on [wishal.cc/blog](https://wishal.cc/blog)
+I have created this repo to share my thoughts. You might the same content on my [instagram](https://instagram.com/wishal.cc) and [facebook](https://facebook.com/wisharya) account.
 
 
-- [Dominox Sucks](https://github.com/wisharya/thought_box/blob/main/Dominos%20Sucks.md), *not published yet*
