@@ -10,7 +10,7 @@ Let's come to the point and forgot about the Dominos Pizza story for few minutes
 
 When I first tried the Ubuntu OS, I didn't like it. It didn't give me the same experience as Windows. I was in love with Windows. Click next, next and next to install any software. Everything is nicely set up for you to go start using the computational power of your machine.
 
-For sure I was not aware of Proprietary or Free and Open-Source Software (FOSS) then. I treated both as a piece of software. So what I was looking at was "User Experience", not through my ideological or technological perspective, because I didn't have any. How someone who just knew what is a program and doesn't know how any software is built would even have any perspective. Here is my "Before College" life, I was just doing whatever I was told to do. Get 1st rank in the batch or be in the top 1 percentile of the batch, score 300+ marks in JEE mocks. get into IITs/NITs, the success, and failure story of relatives and neighbors, and get a job to survive in this world. Questioning any was equal to disrespecting them. Overall I was a bot who use to move based on a program commanded by family and relatives. 
+For sure I was not aware of Proprietary or Free and Open-Source Software (FOSS) then. I treated both as a piece of software. So what I was looking at was "User Experience", not through my ideological or technological perspective, because I didn't have any. How someone who just knew what is a program and doesn't know how any software is built would even have any perspective. Here is my "Before College" life, I was just doing whatever I was told to do. Get 1st rank in the batch or be in the top 1 percentile of the batch, score 300+ marks in JEE mocks. get into IITs/NITs, the success, and failure story of relatives and neighbours, and get a job to survive in this world. Questioning any was equal to disrespecting them. Overall I was a bot who use to move based on a program commanded by family and relatives. 
 
 My day 1 in college. I was the most excited and most introverted and the guy with the poorest spoken English skill and became the Class representative and the real and much-needed struggle starts and I loved the challenges that I faced because I knew there is learning only when you some challenges and solve it.
 
@@ -31,7 +31,7 @@ I am on my way to learn about programming and contribute to open-source and more
 
 Now let's get back to the Dominos story.
 
-It took me at least a year or I tried a dozen pizzas (Yeah I order dominos once in a month, almost) of Dominos to get used to the taste of it and now of my favorite kind of Pizza. Similarly, after 3 months of spending with Ubuntu and Thunderbird, and other software, along with a bit ideological perspective of mine, I am loving them. And I would ask everyone to spend some time with FOSS before making a decision, like "Thunderbird Sucks"
+It took me at least a year or I tried a dozen pizzas (Yeah I order dominos once in a month, almost) of Dominos to get used to the taste of it and now of my favourite kind of Pizza. Similarly, after 3 months of spending with Ubuntu and Thunderbird, and other software, along with a bit ideological perspective of mine, I am loving them. And I would ask everyone to spend some time with FOSS before making a decision, like "Thunderbird Sucks"
 
 
 
