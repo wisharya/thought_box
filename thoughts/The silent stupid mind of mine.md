@@ -29,6 +29,6 @@ helped me to get my first full-time job.
 Still, I haven't worked on my writing skills yet. The fear of getting judged by good writers always pushed me back whenever I wrote something and thought of publishing it. I still have 21 drafts answers on quora, 16 small/medium articles/stories which I haven't published on medium.
 I am still struggling to overcome this. I thought of making a daily routine of writing some various time, wrote few times but never worked on that well.
 
-I guess this is the right time to do it. No one is going to read my thoughts on Github. Thus I will share my thoughts here for the sake of writing something. I might share on my [personal site](https://wishal..cc) later.
+I guess this is the right time to do it. No one is going to read my thoughts on Github. Thus I will share my thoughts here for the sake of writing something. I might share on my [personal site](https://wishal.cc/about) later.
 
 P.S. - Pardon me for my terrible english.
